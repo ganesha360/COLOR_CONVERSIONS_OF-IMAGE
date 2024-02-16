@@ -54,6 +54,8 @@ cv2.destroyAllWindows()
 print(img.shape)
 ```
 ## Output:
+![display window](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/b82c5763-49d4-4120-aa2f-d04e2b07ec15)
+
 ### ii)Write the image
 ```python
 import cv2
@@ -61,6 +63,7 @@ img1=cv2.imread("cheetah.jpeg",1)
 cv2.imwrite('greyscale.jpeg',img1)
 ```
 ## Output:
+![shape of the image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/b47c23ed-d767-497a-9585-930356d9fc1c)
 
 ### iii)Shape of the Image
 ```python
@@ -72,6 +75,8 @@ cv2.destroyAllWindows()
 cv2.imwrite('greyscale.jpeg',img1)
 print(img1.shape)
 ```
+## Output:
+![write the image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/2c9cf46e-8177-4dd3-90b4-dde3ad585f62)
 
 ### iv)Access rows and columns
 ```python
@@ -89,6 +94,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![part image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/401cf455-b3a6-4355-b151-c72fa9f1b716)
+
 ### v)Cut and paste portion of image
 ```python
 import cv2
@@ -110,6 +117,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/83f596e2-b1ff-4ca2-944b-4a159b206915
+![crop image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/884982c4-192c-447f-ba77-909e75eff674)
+
+
 ### vi) BGR and RGB to HSV and GRAY
 ```python
 import cv2
@@ -133,6 +144,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1fa54bca-1381-48ad-b838-1758709bc51b)![bgr2hsv](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/31bf4c00-70a5-4797-95a2-456e8cb41145)
+
+
+![bgr2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1f10e77a-8f4e-4764-96d2-7c5a9b29afb1)![rgb2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/faa44186-b912-4e65-8e0c-9eb56925c4a8)
+
+
+
 ### vii) HSV to RGB and BGR
 ```python
 import cv2
