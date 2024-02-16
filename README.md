@@ -117,7 +117,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/83f596e2-b1ff-4ca2-944b-4a159b206915
+
+![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/3819e845-ac6a-4776-9a8c-6d97bdf46872)
+
 ![crop image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/884982c4-192c-447f-ba77-909e75eff674)
 
 
@@ -144,10 +146,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1fa54bca-1381-48ad-b838-1758709bc51b)![bgr2hsv](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/31bf4c00-70a5-4797-95a2-456e8cb41145)
+![original image](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1fa54bca-1381-48ad-b838-1758709bc51b)! [bgr2hsv](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/31bf4c00-70a5-4797-95a2-456e8cb41145)
 
 
-![bgr2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1f10e77a-8f4e-4764-96d2-7c5a9b29afb1)![rgb2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/faa44186-b912-4e65-8e0c-9eb56925c4a8)
+![bgr2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/1f10e77a-8f4e-4764-96d2-7c5a9b29afb1)! [rgb2gray](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/faa44186-b912-4e65-8e0c-9eb56925c4a8)
 
 
 
