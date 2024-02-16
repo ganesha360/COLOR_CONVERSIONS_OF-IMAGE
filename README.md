@@ -172,6 +172,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![original hsv](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/e0c851a6-e63a-4cbf-ac00-ec1d54d6e37b) ![2hsv2bgr](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/36108a58-9351-4551-a905-404d3032ad39)
+![hsv2rgb](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/8b620f6e-2837-4f46-87b1-e2ff7c027699)
+
+
 ### viii) RGB and BGR to YCrCb
 ```python
 import cv2
@@ -189,6 +193,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![original rgb](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/f87b4ad4-3416-4115-b742-711e2780826d) ![bgr-2-ycr](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/6e9d7bd3-293f-44f0-b31b-6e484cb63314)
+
+![rgb-2-ycr](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/08a28968-d578-4c8e-8c1d-8a52d06d766f)
+
+
 ### ix) Split and merge RGB Image
 ```python
 import cv2
@@ -210,6 +219,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![Merged rgb](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/777333aa-ad01-430d-af88-fd48ed1fe123) ![r channel](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/3158f3b5-56fa-42bd-b2ea-a3d159440e93)
+![g channel](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/5ca34263-e991-4faa-8ef2-a082e548a865) ![b channel](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/e5895a57-040c-459a-87c7-8cc5366465fd)
+
+
+
 ### x) Split and merge HSV Image
 ```python
 import cv2
@@ -230,6 +244,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+![merged](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/7cde2db5-ad32-4b1c-9c6e-5fb0a258bcb8) ![hue](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/f636915a-3fe2-4bc0-b0ea-818649654df3)
+![saturation](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/3b5ec618-5597-44dc-a044-095cacda99b9) ![value](https://github.com/ganesha360/COLOR_CONVERSIONS_OF-IMAGE/assets/120884552/09c2e261-5d05-493c-9d6d-2b442ae972b7)
+
+
+
 
 
 ## Result:
